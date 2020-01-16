@@ -1,2 +1,2 @@
 # scoop-specialized
-Scoop Bucket for specialized applications
+Scoop Bucket for specialized applications.
